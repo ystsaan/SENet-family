@@ -3,9 +3,9 @@ a Keras implementation of SENet family
 
 SE-BN-Inception
 
-SE-ResNet
-
 SE-ResNeXt
+
+SE-ResNet
 
 SENet 154
 
